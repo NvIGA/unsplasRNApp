@@ -1,11 +1,8 @@
 import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
-  mainContainer: {
-    paddingBottom: 30,
-  },
   cardWrapper: {
-    marginTop: 35,
+    marginVertical: 20,
     marginHorizontal: 15,
     borderRadius: 10,
     backgroundColor: '#ecf0f1',
